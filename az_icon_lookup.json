@@ -1,0 +1,2168 @@
+[
+ {
+  "name": "ACLS Humanities Ebooks",
+  "matchUrl": "https://www.fulcrum.org/heb?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-acls-humanities",
+  "iconDescription": "Accessing ACLS Humanities Ebooks"
+ },
+ {
+  "name": "ACM (Association Computing Machinery) Ebooks",
+  "matchUrl": "http://dl.acm.org/books.cfm",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-acm",
+  "iconDescription": "Accessing ACM"
+ },
+ {
+  "name": "ACM Digital Library",
+  "matchUrl": "http://dl.acm.org",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-acm",
+  "iconDescription": "Accessing ACM"
+ },
+ {
+  "name": "Aerial Digimap",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "African American Newspapers 1827-1998",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "agCensus via Digimap - Agricultural Censuses of England, Scotland and Wales",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Alt Health Watch",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=awh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "AM Digital Primary Sources",
+  "matchUrl": "https://www.login.amdigital.co.uk/Welcome/TGZGVsDPk9ueB3t5p9rrYw",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "AM Explorer",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps://www.am-explorer.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "AM Research Methods",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx?returnURL=https%3A%2F%2Fwww.amresearchmethods.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "AMED - The Allied and Complementary Medicine Database",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=amed&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "America: History and Life with Full Text",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=31h&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "America's Historical Newspapers",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "American Chemical Society",
+  "matchUrl": "https://pubs.acs.org/action/showPublications?pubType=journal",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-acs",
+  "iconDescription": "Accessing American Chemical Society"
+ },
+ {
+  "name": "American Chemical Society Archives",
+  "matchUrl": "http://pubs.acs.org/archives/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-acs",
+  "iconDescription": "Accessing American Chemical Society"
+ },
+ {
+  "name": "American Civil War Newspapers 1840-1877",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "American Civil War: Letters and Diaries -  Legacy Platform",
+  "matchUrl": "https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https://shibboleth-sp.prod.proquest.com/ASTREET/LAZR/PROD&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "American Civil War: Letters and Diaries -  New Platform",
+  "matchUrl": "https://www.proquest.com/civilwarletters/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "American Physiological Society (APS)",
+  "matchUrl": "http://iam.atypon.com/action/ssostart?idp=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&redirectUri=%2F&targetSP=https%3A%2F%2Fjournals.physiology.org&requesterId=https%3A%2F%2Fwww.physiology.org%2Fshibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-american-physiological-society",
+  "iconDescription": "Accessing American Physiological Society"
+ },
+ {
+  "name": "Anatomy TV: Anatomy & Physiology",
+  "matchUrl": "https://www.anatomy.tv/deeplink?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://www.anatomy.tv ",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-anatomy-tv",
+  "iconDescription": "Anatomy TV: Anatomy & Physiology"
+ },
+ {
+  "name": "Archives Direct",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.archivesdirect.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-archives-direct",
+  "iconDescription": "Accessing Archives Direct"
+ },
+ {
+  "name": "Archives of Sexuality and Gender Parts 1 & 2",
+  "matchUrl": "https://link.gale.com/apps/AHSI?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Archives Unbound",
+  "matchUrl": "https://link.gale.com/apps/GDSC?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Art Full Text",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=aft&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Artists Now",
+  "matchUrl": "https://www.artistsnow.com/jisclogin",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-a-n",
+  "iconDescription": "Accessing a-n Artists Information Company"
+ },
+ {
+  "name": "ASCE Library",
+  "matchUrl": "https://ascelibrary.org/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-asce-library",
+  "iconDescription": "Accessing ASCE Library"
+ },
+ {
+  "name": "ASHRAE Transactions",
+  "matchUrl": "https://go.gale.com/ps/start.do?p=SPJ&u=unn ",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "ASSIA: Applied Social Sciences Index and Abstracts",
+  "matchUrl": "https://search.proquest.com/assia/socialsciences/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Astrobiology",
+  "matchUrl": "https://iam.atypon.com/action/ssostart?idp=https://login.northumbria.ac.uk/idp/shibboleth&redirectUri=https%3A%2F%2Fjournals.sagepub.com&targetSP=https://journals.sagepub.com/home/asba",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sage",
+  "iconDescription": "Accessing Sage"
+ },
+ {
+  "name": "Atlanta Constitution, The (1868-1945)",
+  "matchUrl": "https://search.proquest.com/hnpatlantaconstitution/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Aurora Metro Books via Drama online",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.dramaonlinelibrary.com/SHIBBOLETH?dest=https://www.dramaonlinelibrary.com/aurora-metro-books",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-amb",
+  "iconDescription": "Accessing Aurora Metro Books"
+ },
+ {
+  "name": "Australian Education Index",
+  "matchUrl": "http://search.proquest.com/australianeducationindex/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Berg Fashion Library",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyfashioncentral.com/SHIBBOLETH?dest=https://www.bloomsburyfashioncentral.com/berg-fashion-library  ",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-berg",
+  "iconDescription": "Accessing Berg Fashion Library"
+ },
+ {
+  "name": "Biographische Handbucher der deutchsprachigen Emigration nach 1933",
+  "matchUrl": "https://www.degruyterbrill.com/bhde",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-degruyterbrill",
+  "iconDescription": "Accessing De Gruyter Brill"
+ },
+ {
+  "name": "Biomedical and Life Sciences Collection (Henry Stewart Talks)",
+  "matchUrl": "https://hstalks.com/accounts/saml/wayfless/?biosci&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-blsc",
+  "iconDescription": "Accessing Biomedical and Life Sciences Collection (Henry Stewart Talks)"
+ },
+ {
+  "name": "Bloomsbury Applied Visual Arts Ebooks",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyappliedvisualarts.com/SHIBBOLETH?dest=https://www.bloomsburyappliedvisualarts.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Bloomsbury Architecture Library",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyarchitecturelibrary.com/SHIBBOLETH?dest=https://www.bloomsburyarchitecturelibrary.com",
+  "iconUrl": "https://library.northumbria.ac.uk/accessing-bloomsbury-architecture-library",
+  "iconDescription": "Accessing Bloomsbury Architecture Library"
+ },
+ {
+  "name": "Bloomsbury Arts & Visual Culture Ebooks",
+  "matchUrl": "https://www.bloomsburycollections.com/search?newSearch&browse&requestedTaxonomyFacet=A44267",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Bloomsbury Education Ebooks",
+  "matchUrl": "https://www.bloomsburycollections.com/search?newSearch&browse&requestedTaxonomyFacet=A42889",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Bloomsbury Fashion Business Cases",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyfashioncentral.com/SHIBBOLETH?dest=https://www.bloomsburyfashioncentral.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Bloomsbury Fashion Video Archive",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyfashioncentral.com/SHIBBOLETH?dest=https://www.bloomsburyfashionvideo.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Bloomsbury Film and Media Studies Ebooks",
+  "matchUrl": "https://www.bloomsburycollections.com/search-results?any=&su=A42890",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Bloomsbury Politics and International Relations Ebooks",
+  "matchUrl": "https://www.bloomsburycollections.com/search?newSearch&browse&requestedTaxonomyFacet=A42898",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "BMJ (The)",
+  "matchUrl": "https://www.bmj.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bmj",
+  "iconDescription": "Accessing British Medical Journal (BMJ)"
+ },
+ {
+  "name": "Books at JSTOR: Business and Economics via JSTOR collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Books at JSTOR: Film Studies via JSTOR collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Books at JSTOR: History via JSTOR collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Books at JSTOR: Language and Literature via JSTOR collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Books at JSTOR: Political Science via JSTOR collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Books at JSTOR: Sociology via JSTOR collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Boston Globe, The (1872 - 1988)",
+  "matchUrl": "https://search.proquest.com/hnpnewyorkbostonglobe/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Box of Broadcasts (BoB)",
+  "matchUrl": "https://login.learningonscreen.ac.uk/wayfless.php?entityID=https%3A%2F%2Flogin.northumbria.ac.uk/idp%2Fshibboleth&target=https%3A%2F%2Flearningonscreen.ac.uk%2Fondemand",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bob",
+  "iconDescription": "Accessing Box of Broadcasts (BoB)"
+ },
+ {
+  "name": "Bristol University Press Journals",
+  "matchUrl": "https://bristoluniversitypressdigital.com/page/journals",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bristol-uni-press-digital",
+  "iconDescription": "Bristol University Press Journals"
+ },
+ {
+  "name": "British Broadcasting Corporation 1927-2002",
+  "matchUrl": "https://microform.digital/boa/series/2/british-broadcasting-corporation-1927-2002",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "British Education Index",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&profile=ehost&defaultdb=bri&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "British Labour Party Papers 1906-1969",
+  "matchUrl": "https://britishonlinearchives.com/collections/74/british-labour-party-papers-1906-1969",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "British Labour Party Papers, 1906-1969 - Key Data",
+  "matchUrl": "https://britishonlinearchives.com/collections/74/british-labour-party-papers-1906-1969",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "British Library Archival Sound Recordings",
+  "matchUrl": "https://sounds.bl.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-blasr",
+  "iconDescription": "Accessing British Library Archival Sound Recordings"
+ },
+ {
+  "name": "British Library Newspapers Parts I & II",
+  "matchUrl": "https://link.gale.com/apps/BNCN?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "British Online Archives - Paris Peace Conference and Beyond 1919-1939",
+  "matchUrl": "https://britishonlinearchives.com/collections/86/paris-peace-conference-and-beyond-1919-1939",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "British Online Archives - The Collapse of the Ottoman Empire and the Partition of the Middle East, 1879-1919",
+  "matchUrl": "https://britishonlinearchives.com/collections/13/the-collapse-of-the-ottoman-empire-and-the-partition-of-the-middle-east-1879-1919",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "British Periodicals Collection I & ll",
+  "matchUrl": "http://search.proquest.com/britishperiodicals/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "British Standards Online",
+  "matchUrl": "https://login.northumbria.ac.uk/idp/profile/SAML2/Unsolicited/SSO?providerId=https%3A%2F%2Ffederation.bsigroup.com%2Fsp%2Fmetadata&target=https%3A%2F%2Fbsol.bsigroup.com%2FAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bso",
+  "iconDescription": "Accessing British Standards Online"
+ },
+ {
+  "name": "British Universities Film & Video Council (BUFVC)",
+  "matchUrl": "https://login.bufvc.ac.uk/wayfless.php?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=http%3A%2F%2Fbufvc.ac.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-learning-on-screen",
+  "iconDescription": "Accessing Learning on Screen"
+ },
+ {
+  "name": "Business & Management Collection (Henry Stewart Talks)",
+  "matchUrl": "https://hstalks.com/shibboleth/wayfless/?business&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/accessing-guides/accessing-bmc",
+  "iconDescription": "Accessing The Business & Management Collection (Henry Stewart Talks)"
+ },
+ {
+  "name": "Business Source Premier via EBSCO Host",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=buh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Cambridge Companions to Music",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://www.cambridge.org/core/what-we-publish/collections/cambridge-companions/the-cambridge-companions-to-music",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge-companion-to-music",
+  "iconDescription": "cambridge companion to music"
+ },
+ {
+  "name": "Cambridge Core",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-in-data-privacy-and-protection%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DA0B50757DFD43146E583EBBCC41F2543",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Elements",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Felements%2Fpublished-elements%3F%26aggs%5BproductTypes%5D%5Bfilters%5D%3DELEMENT",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Histories",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fcollections%2Fcambridge-histories%2Flisting%3Faggs%255BonlyShowAvailable%255D%255Bfilters%255D%3Dtrue%26aggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DC2EAD8E1ECA8DD9DF0F671BB7A27C02E",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Hot Topics: Data Privacy and Protection",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-in-data-privacy-and-protection%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DA0B50757DFD43146E583EBBCC41F2543",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Hot Topics: Ecology & Environment",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-in-ecology-and-environment%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DEE9786B37006FFE0040B4D259DB06D78",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Hot Topics: Maternal-Fetal Medicine",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-in-maternal-fetal-medicine%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DD20EBAA99A3B2938E794ABD4EE92DEAC",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Hot Topics: Mental Health",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-in-mental-health%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DB5C0E7B2201D80D7877397EA862E5415",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Hot Topics: Robotics",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-on-robotics%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3DCA015E55+712FE10CC93381EFD23306A3",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Hot Topics: Systems Biology",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fbooks%2Febooks-in-systems-biology%3Faggs%255BproductTypes%255D%255Bfilters%255D%3DBOOK%26searchWithinIds%3D085AD23FD0754D8C8BD3685D7CBF910A",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Journals",
+  "matchUrl": "https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fwhat-we-publish%2Fjournals",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Cambridge Music Handbooks",
+  "matchUrl": "https://www.cambridge.org/core/series/cambridge-music-handbooks/2CBC1457EDA4B9D6FB4DF6A988E6D538",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-cambridge",
+  "iconDescription": "Accessing Cambridge"
+ },
+ {
+  "name": "Chicago Tribune, The (1849-1997)",
+  "matchUrl": "https://search.proquest.com/hnpchicagotribune/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Child Development & Adolescent Studies",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&profile=ehost&defaultdb=fgh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Churchill Archive",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=http://www.churchillarchive.com/SHIBBOLETH?dest=http://www.churchillarchive.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-churchill-archive",
+  "iconDescription": "Accessing Churchill Archive"
+ },
+ {
+  "name": "CINAHL Ultimate",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&custid=s8461314&groupid=main&profile=ehost&defaultdb=cul",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Cite Them Right",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.citethemrightonline.com/SHIBBOLETH?dest=https://www.citethemrightonline.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ctr",
+  "iconDescription": "Accessing Cite Them Right"
+ },
+ {
+  "name": "Civil Rights and the Black Freedom Struggle",
+  "matchUrl": "https://search.proquest.com/historyvault/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Civil Rights and the Black Freedom Struggle",
+  "matchUrl": "https://search.proquest.com/hvcivilrights/shibboleth?accountid=12860 ",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Civil War: Antebellum Period to Reconstruction",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "Company, Industry, Country & Market reports via EBSCO Business Source Premier",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=bsi&defaultdb=buh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Comprehensive Composite Materials",
+  "matchUrl": "http://www.sciencedirect.com/science/referenceworks/9780080429939",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Conference Proceedings (IEE/IEEE/IET)",
+  "matchUrl": "https://ieeexplore.ieee.org/search/advsearch.jsp",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "Confidential Print-North America",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx?returnURL=https%3A%2F%2Fwww.confidentialprintnorthamerica.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Construction Information Service (CIS)",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "Criminal Law Week",
+  "matchUrl": "https://library.northumbria.ac.uk/clw",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-clw",
+  "iconDescription": "Criminal Law Week"
+ },
+ {
+  "name": "Daily Mail Historical Archive 1896-2004",
+  "matchUrl": "https://link.gale.com/apps/DMHA?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Die Musik in Geschichte und Gegenwart (MGG) - Temporary Access until 5th June 2020",
+  "matchUrl": "https://www.mgg-online.com/saml/login?id=https%3a//login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-mgg-online",
+  "iconDescription": "Accessing MGG Online"
+ },
+ {
+  "name": "Digimap",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Digimap Global and Digimap Society - Temporary Access until 23rd June 2020",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Digital Library of Core E-resources on Ireland (included in JSTOR collections)",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Digital Theatre+",
+  "matchUrl": "https://auth.digitaltheatreplus.com/sso/saml2/0oa2tsvzd9nbLjkvK4x7/home/oidc_client/0oacoxy6tIkmNtvy34x6/aln177a159h7Zf52X0g8?fromURI=https://edu.digitaltheatreplus.com/callback?fromAcs=true",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-dtp",
+  "iconDescription": "Accessing Digital Theatre Plus"
+ },
+ {
+  "name": "Drama Online",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.dramaonlinelibrary.com/SHIBBOLETH?dest=https://www.dramaonlinelibrary.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-drama-online",
+  "iconDescription": "Accessing Drama Online"
+ },
+ {
+  "name": "Early American Newspapers - 19th Century 1801-1900",
+  "matchUrl": "http://infoweb.newsbank.com/?db=EANX&d_collections=EANA19C",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "Early American Newspapers - Civil War Collection",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "Early English Books Online (EEBO)",
+  "matchUrl": "https://search.proquest.com/eebo/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Early European Books - Parts 1 - 4 and Wellcome Trust Collection",
+  "matchUrl": "https://search.proquest.com/eeb/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "East India Company: Laying the Foundations for British Colonial Domination of India, 1752-1774",
+  "matchUrl": "https://britishonlinearchives.com/collections/20/the-east-india-company-laying-the-foundations-for-british-colonial-domination-of-india-1752-1774",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "EBL Ebooks (Ebook Central)",
+  "matchUrl": "http://www.northumbria.eblib.com/patron",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest-ebook-central",
+  "iconDescription": "Accessing Proquest Ebook Central"
+ },
+ {
+  "name": "Economist Historical Archive 1843-2020",
+  "matchUrl": "https://link.gale.com/apps/ECON?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Economist, The",
+  "matchUrl": "https://myaccount.economist.com/s/institution-login?entity=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-the-economist",
+  "iconDescription": "The Economist"
+ },
+ {
+  "name": "Edinburgh University Press eJournals Complete Collection",
+  "matchUrl": "https://www.euppublishing.com/action/showPublications",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-eup",
+  "iconDescription": "Edinburgh University Press"
+ },
+ {
+  "name": "Education Abstracts",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&profile=ehost&defaultdb=eax&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Educational Administration Abstracts",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&profile=ehost&defaultdb=20h&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Edward Elgar Ebooks",
+  "matchUrl": "https://www.elgaronline.com/saml/wayf?entity=https://login.northumbria.ac.uk/idp/shibboleth&target=https://www.elgaronline.com/browse?access=user",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elgar",
+  "iconDescription": "Accessing Edward Elgar Ebooks"
+ },
+ {
+  "name": "EG Radius",
+  "matchUrl": "https://www.egi.co.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-EG-Radius",
+  "iconDescription": "EG Radius"
+ },
+ {
+  "name": "Eighteenth Century Collections Online (ECCO)",
+  "matchUrl": "https://link.gale.com/apps/ECCO?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Eighteenth Century Drama",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.eighteenthcenturydrama.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Eighteenth Century Journals",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.18thcjournals.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Elsevier Health and Medical Textbooks (3 Titles)",
+  "matchUrl": "https://elsevierelibrary.co.uk/bookshelf",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier-health",
+  "iconDescription": "Accessing Elsevier Health and Medical Collections"
+ },
+ {
+  "name": "EMBASE",
+  "matchUrl": "https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.embase.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Emerald Journals",
+  "matchUrl": "https://www.emerald.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-emerald",
+  "iconDescription": "Accessing Emerald"
+ },
+ {
+  "name": "Emergency Remedies in the Family Courts",
+  "matchUrl": "https://plus.lexis.com/uk/xhome?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-familylaw",
+  "iconDescription": "Accessing LexisNexis (Family Law)"
+ },
+ {
+  "name": "Empire Online",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.empire.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Engineer-it",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "Engineering Workbench",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "Entertainment Industry Magazine Archive (EIMA)",
+  "matchUrl": "https://search.proquest.com/eima/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Environment Digimap - Land Cover Maps from the Centre for Ecology & Hydrology (CEH)",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Environmental Issues Online",
+  "matchUrl": "https://search.alexanderstreet.com/envi",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "Environmental Management",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "ERIC",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=eric&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Ethnic American Newspapers from the Balch Collection: 1799-1971",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "Fairchild Books Interior Design Library",
+  "matchUrl": "https://www.fairchildbooksinteriordesign.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-fairchild-books",
+  "iconDescription": "accessing fairchild books"
+ },
+ {
+  "name": "Fairchild Books Library",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyfashioncentral.com/SHIBBOLETH?dest=https://www.bloomsburyfashioncentral.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "FAME  (Financial Analysis Made Easy)",
+  "matchUrl": "https://authenticate.bvdep.com/ukfederation/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fauthenticate.bvdep.com%2Fukfederation%3Fproduct%3Dfame_modern",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-fame",
+  "iconDescription": "Accesing Fame"
+ },
+ {
+  "name": "FAME  (Financial Analysis Made Easy) - Legacy Platform",
+  "matchUrl": "https://login.northumbria.ac.uk/idp/profile/Shibboleth/SSO?target=https%3A%2F%2Ffame2.bvdep.com/ukfederation.aspx&shire=https%3A%2F%2Fauthenticate.bvdep.com%2Fukfederation%2FShibboleth.sso%2FSAML%2FPOST&providerId=https%3A%2F%2Fauthenticate.bvdep.com%2Fukfederation",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-fame",
+  "iconDescription": "Accesing Fame"
+ },
+ {
+  "name": "Family Court Practice (The Red Book)",
+  "matchUrl": "https://plus.lexis.com/uk/xhome?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-familylaw",
+  "iconDescription": "Accessing LexisNexis (Family Law)"
+ },
+ {
+  "name": "Family Health Database",
+  "matchUrl": "http://search.proquest.com/familyhealth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Family Law Precedent Service",
+  "matchUrl": "https://plus.lexis.com/uk/xhome?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-familylaw",
+  "iconDescription": "Accessing LexisNexis (Family Law)"
+ },
+ {
+  "name": "Fashion Photography Archive",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburyfashioncentral.com/SHIBBOLETH?dest=https://www.bloomsburyfashioncentral.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Fast Facts: Medical Handbooks",
+  "matchUrl": "https://karger.com/pages/fast-facts-titles",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-fast-facts",
+  "iconDescription": "Fast Facts: Medical handbooks"
+ },
+ {
+  "name": "FIAF International Index to Film Periodicals",
+  "matchUrl": "http://search.proquest.com/fiafindex/arts/fromDatabasesLayer/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Film & Television Literature Index with Full Text",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=f3h&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Financial Times Historical Archive 1888-2021",
+  "matchUrl": "https://link.gale.com/apps/FTHA?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Financial Times/FT.com",
+  "matchUrl": "https://www.ft.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ftcom",
+  "iconDescription": "FT.com"
+ },
+ {
+  "name": "First World War",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.firstworldwar.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Food and Drink Safety",
+  "matchUrl": "https://sam.ihsmarkit.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthhumbria_University-JzOTB7565p&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/federatedLinkLanding",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "Forensic and Law Enforcement eBook Collection",
+  "matchUrl": "https://www.taylorfrancis.com/collections/forensicnetbase-lawenforcementnetbase/wb019?context=ubx",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-tandf",
+  "iconDescription": "Accessing Taylor & Francis"
+ },
+ {
+  "name": "Gale Chatham House Collection",
+  "matchUrl": "https://link.gale.com/apps/CHTM?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Gale Primary Sources",
+  "matchUrl": "https://link.gale.com/apps/GDCS?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Gender, Feminism, and the British Left, 1944-1991",
+  "matchUrl": "https://britishonlinearchives.com/collections/94/gender-feminism-and-the-british-left-1944-1991",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "Geology Digimap",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "GeoScienceWorld Ebooks",
+  "matchUrl": "https://pubs.geoscienceworld.org/books/search-results?f_ContentType=Book&fl_SiteID=7&sort=Date+-+Newest+First&access_unlocked=true",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-geo-science-world",
+  "iconDescription": "Accessing Geo Science World"
+ },
+ {
+  "name": "Global Digimap - global data",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Granta",
+  "matchUrl": "http://www.exacteditions.com/iplogin/grantamagazine",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-granta-magazine",
+  "iconDescription": "Accessing Granta Magazine"
+ },
+ {
+  "name": "GreenFILE",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=8gh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Grove Art Online",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https://www.oxfordartonline.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-grove-art",
+  "iconDescription": "Accessing Grove Art Online"
+ },
+ {
+  "name": "Grove Music Online",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https://www.oxfordmusiconline.com/grovemusic",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gmo",
+  "iconDescription": "Accessing Grove Music Online"
+ },
+ {
+  "name": "Guardian and Observer Newspaper Archive",
+  "matchUrl": "https://search.proquest.com/hnpguardianobserver/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Health and Medical Collection",
+  "matchUrl": "http://search.proquest.com/healthcomplete?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Health Management Database",
+  "matchUrl": "http://search.proquest.com/healthmanagement?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Health Research Premium Collection",
+  "matchUrl": "http://search.proquest.com/hospital/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "HeinOnline Academic Core Collection",
+  "matchUrl": "https://heinonline.org/HOL/WAYFless?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://heinonline.org/HOL/Welcome",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-hein",
+  "iconDescription": "Accessing HeinOnline"
+ },
+ {
+  "name": "HeinOnline Air and Space Law",
+  "matchUrl": "http://heinonline.org/HOL/WAYFless?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://heinonline.org/HOL/Index?collection=space&set_as_cursor=clear",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-hein",
+  "iconDescription": "Accessing HeinOnline"
+ },
+ {
+  "name": "HeinOnline Civil Rights and Social Justice Database",
+  "matchUrl": "http://heinonline.org/HOL/WAYFless?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://heinonline.org/HOL/Index?collection=civil&set_as_cursor=clear",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-hein",
+  "iconDescription": "Accessing HeinOnline"
+ },
+ {
+  "name": "HeinOnline Law Journal Library",
+  "matchUrl": "http://heinonline.org/HOL/WAYFless?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://heinonline.org/HOL/Index?collection=journals",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-hein",
+  "iconDescription": "Accessing HeinOnline"
+ },
+ {
+  "name": "HeinOnline U.S. Congressional Documents Library",
+  "matchUrl": "http://heinonline.org/HOL/WAYFless?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://heinonline.org/HOL/Index?collection=congrec",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-hein",
+  "iconDescription": "Accessing HeinOnline"
+ },
+ {
+  "name": "Historic Digimap - historic maps from Landmark",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Historical Abstracts with Full Text",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=30h&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Historical Texts (Jisc)",
+  "matchUrl": "https://historicaltexts.jisc.ac.uk/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fhistoricaltexts.jisc.ac.uk%2F",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-jisc",
+  "iconDescription": "Accessing JISC"
+ },
+ {
+  "name": "Humanities Index",
+  "matchUrl": "http://search.proquest.com/bhi/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ICE Virtual Library (Institution of Civil Engineers)",
+  "matchUrl": "https://www.emerald.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ice",
+  "iconDescription": "Accessing Institution of Civil Engineers"
+ },
+ {
+  "name": "IDS Employment Law Brief",
+  "matchUrl": "http://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=https%3A%2F%2Fwestlawuk.thomsonreuters.co.uk%2FBrowse%2FHome%2FWestlawUK%3FskipAnonymous%3Dtrue",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-IDS-employment-law-brief",
+  "iconDescription": "accessing-IDS-employment-law-brief"
+ },
+ {
+  "name": "IEEE Learning Content - Temporary access until 30th June 2020",
+  "matchUrl": "https://ieeexplore.ieee.org/courses/home",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "IEEE Xplore Digital Library",
+  "matchUrl": "https://www.ieee.org/ieeexplore/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "IEEE-MIT Ebooks Library",
+  "matchUrl": "https://ieeexplore.ieee.org/Xplorehelp/browsing-ieee-xplore/mit-press",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "IEEE-Morgan and Claypool Ebooks",
+  "matchUrl": "https://ieeexplore.ieee.org/Xplore/home.jsp",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "IEEE-Wiley Ebooks Library",
+  "matchUrl": "https://ieeexplore.ieee.org/Xplorehelp/browsing-ieee-xplore/wiley-ieee-press",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "IET (Institution of Engineering and Technology) Ebooks",
+  "matchUrl": "https://digital-library.theiet.org/collections",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-iet",
+  "iconDescription": "Accessing IET Ebooks"
+ },
+ {
+  "name": "IHS Markit (now Accuris)",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "ILR Programme Sharing Database (Independent Local Radio)",
+  "matchUrl": "https://login.bufvc.ac.uk/wayfless.php?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=http%3A%2F%2Fbufvc.ac.uk%2Ftvandradio%2Findependent-radio",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-learning-on-screen",
+  "iconDescription": "Accessing Learning on Screen"
+ },
+ {
+  "name": "IMechE Collection",
+  "matchUrl": "http://online.sagepub.com/cgi/shibboleth?entityID=https://login.northumbria.ac.uk/idp/shibboleth&uri=http://www.uk.sagepub.com/imeche.sp",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sage",
+  "iconDescription": "Accessing Sage"
+ },
+ {
+  "name": "Independent Labour Party Records, 1893-1960 - Key Data",
+  "matchUrl": "https://microform.digital/boa/collections/60/independent-labour-party-records-1893-1960/key-data",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "Indigenous Newspapers in North America",
+  "matchUrl": "https://www.indigenousnewspapersinnorthamerica.amdigital.co.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "IngentaConnect Journals",
+  "matchUrl": "http://www.ingentaconnect.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ingenta",
+  "iconDescription": "Accessing IngentaConnect"
+ },
+ {
+  "name": "Institute of Physics (IOP) Ebooks",
+  "matchUrl": "https://myiopscience.iop.org/signin?origin=deeplink&entity=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https://iopscience.iop.org/bookList/10/1",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-iop",
+  "iconDescription": "Accessing Institute of Physics"
+ },
+ {
+  "name": "Institute of Physics (IOP) Journals (including archive)",
+  "matchUrl": "https://myiopscience.iop.org/signin?origin=deeplink&entity=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=http%3A%2F%2Fiopscience.iop.org%2Fjournals%3Ftype%3Dcurrent",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-iop",
+  "iconDescription": "Accessing Institute of Physics"
+ },
+ {
+  "name": "Institution of Civil Engineers Journals (ICE Virtual library)",
+  "matchUrl": "http://www.icevirtuallibrary.com/action/showPublications?pubType=journal",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ice",
+  "iconDescription": "Accessing Institution of Civil Engineers"
+ },
+ {
+  "name": "Intellect Fashion Journals",
+  "matchUrl": "https://intellectdiscover.com/content/collections/intellectfashion26",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-intellect",
+  "iconDescription": "Accessing Intellect Discover"
+ },
+ {
+  "name": "Intellect Performing Arts Journals",
+  "matchUrl": "https://intellectdiscover.com/content/collections/intellectpa25",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-intellect",
+  "iconDescription": "Accessing Intellect Discover"
+ },
+ {
+  "name": "International Bibliography of the Social Sciences (IBSS)",
+  "matchUrl": "http://search.proquest.com/ibss/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Internurse.com",
+  "matchUrl": "http://www.magonlinelibrary.com/action/ssostart?idp=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&redirectUri=/action/showCategory?categoryCode=internurse",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-mag",
+  "iconDescription": "Accessing Internurse.com"
+ },
+ {
+  "name": "Journal Archives (Jisc)",
+  "matchUrl": "https://journalarchives.jisc.ac.uk/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fjournalarchives.jisc.ac.uk%2F",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-jisc",
+  "iconDescription": "Accessing JISC"
+ },
+ {
+  "name": "Journal Citations Report - JCR",
+  "matchUrl": "http://login.incites.clarivate.com/?auth=ShibbolethIdPForm2_IC2JCR&entityID=https://login.northumbria.ac.uk/idp/shibboleth&ShibFederation=ukFederation",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-jcr",
+  "iconDescription": "Accessing Journal Citations Report - JCR"
+ },
+ {
+  "name": "JoVE Education",
+  "matchUrl": "https://www.jove.com/education/all",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-a-n",
+  "iconDescription": "Accessing a-n Artists Information Company"
+ },
+ {
+  "name": "JoVE Research",
+  "matchUrl": "https://www.jove.com/research/journal/all",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-a-n",
+  "iconDescription": "Accessing a-n Artists Information Company"
+ },
+ {
+  "name": "JoVE Science Education Videos",
+  "matchUrl": "https://www.jove.com/science-education-library",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-jove",
+  "iconDescription": "Accessing Jove"
+ },
+ {
+  "name": "JSTOR 19th Century British Pamphlets",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Fsite%2Fprimary-sources%2F19th-century-british-pamphlets%2F",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "JSTOR Collections",
+  "matchUrl": "https://shibbolethsp.jstor.org/start?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&site=jstor&dest=https%3A%2F%2Fwww.jstor.org%2Faction%2FshowAdvancedSearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-JSTOR",
+  "iconDescription": "Accessing JSTOR"
+ },
+ {
+  "name": "Kanopy (Media Education Foundation)",
+  "matchUrl": "https://northumbria.kanopystreaming.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-kanopy",
+  "iconDescription": "Accessing Media Education Foundation (Kanopy)"
+ },
+ {
+  "name": "Kemp on Lawtel",
+  "matchUrl": "http://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=https%3A%2F%2Fwestlawuk.thomsonreuters.co.uk%2FBrowse%2FHome%2FWestlawUK%3FskipAnonymous%3Dtrue",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-lawtel",
+  "iconDescription": "Accessing Lawtel"
+ },
+ {
+  "name": "Kluwer Law International Journal Library",
+  "matchUrl": "https://heinonline.org/HOL/Welcome",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-hein",
+  "iconDescription": "Accessing HeinOnline"
+ },
+ {
+  "name": "Kortext  - Temporary access until 31st July 2020",
+  "matchUrl": "https://app.kortext.com/library",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-kortext",
+  "iconDescription": "Accessing Kortext"
+ },
+ {
+  "name": "Lawtel",
+  "matchUrl": "http://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=https%3A%2F%2Fwestlawuk.thomsonreuters.co.uk%2FBrowse%2FHome%2FWestlawUK%3FskipAnonymous%3Dtrue",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-lawtel",
+  "iconDescription": "Accessing Lawtel"
+ },
+ {
+  "name": "Leisure Tourism",
+  "matchUrl": "https://cabidigitallibrary.org/action/ssostart?idp=https://login.northumbria.ac.uk/idp/shibboleth &redirectUri=https://cabidigitallibrary.org/product/3R",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-leisure-tourism",
+  "iconDescription": "Accessing Leisure Tourism Database"
+ },
+ {
+  "name": "Lexis Library Private Client",
+  "matchUrl": "https://plus.lexis.com/uk/xhome?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-lexislib",
+  "iconDescription": "Accessing LexisLibrary"
+ },
+ {
+  "name": "Lexis PSL",
+  "matchUrl": "https://plus.lexis.com/uk/xhome?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-lexislib",
+  "iconDescription": "Accessing LexisLibrary"
+ },
+ {
+  "name": "Lexis+® UK",
+  "matchUrl": "https://plus.lexis.com/uk/xhome?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-lexislib",
+  "iconDescription": "Accessing LexisLibrary"
+ },
+ {
+  "name": "LGBT Magazine Archive",
+  "matchUrl": "https://search.proquest.com/lgbtma/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Library, Information Science & Technology Abstracts (LISTA)",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=lxh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Lidar Digimap - high resolution Lidar data from national agencies",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Linguistics & Language Behaviour Abstracts",
+  "matchUrl": "http://search.proquest.com/llba/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "LISA: Library & Information Sciences Abstracts",
+  "matchUrl": "http://search.proquest.com/lisa/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Literary Print Culture: The Stationers’ Company Archive 1554-2007",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.literaryprintculture.amdigital.co.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-literary-print-culture",
+  "iconDescription": "Accessing Literary Print Culture"
+ },
+ {
+  "name": "Loeb Classical Library - Temporary Access until 30th June 2020",
+  "matchUrl": "https://www.loebclassics.com/applib/openathens?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-loeb-classical-library",
+  "iconDescription": "Accessing Loeb Classical Library"
+ },
+ {
+  "name": "London Evening Standard Archive 1827 - To Date",
+  "matchUrl": "https://search.proquest.com/hnplondoneveningstandard/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Los Angeles Times, The (1881-2011)",
+  "matchUrl": "https://search.proquest.com/hnplatimes/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Manchester Gothic Ebooks",
+  "matchUrl": "https://www.manchesterhive.com/saml/wayf?entity=https://login.northumbria.ac.uk/idp/shibboleth&target=https://www.manchesterhive.com/page/manchestergothic/manchester-gothic",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-mup",
+  "iconDescription": "Accessing Manchester University Press"
+ },
+ {
+  "name": "Manchester Studies In Imperialism Ebooks",
+  "matchUrl": "https://www.manchesterhive.com/saml/wayf?entity=https://login.northumbria.ac.uk/idp/shibboleth&target=https://www.manchesterhive.com/collection/manchester-studies-in-imperialism?access=user&pageSize=10&sort=datedescending&type_0=book",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-mup",
+  "iconDescription": "Accessing Manchester University Press"
+ },
+ {
+  "name": "Marine Digimap - hydrographic maps and data from OceanWise Ltd",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Mass Observation Online",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.massobservation.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Matflix",
+  "matchUrl": "https://www.matflix.co.uk/?option=sso_user_login&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-matflix",
+  "iconDescription": "Accessing Matflix"
+ },
+ {
+  "name": "Media Education Foundation",
+  "matchUrl": "https://northumbria.kanopystreaming.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-kanopy",
+  "iconDescription": "Accessing Media Education Foundation (Kanopy)"
+ },
+ {
+  "name": "Medicines Complete",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fsp.sams-sigma.com%2Fshib%3Fdest%3Dhttps%253A%252F%252Fwww.medicinescomplete.com%252Fshibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-BNF-and-BNFC",
+  "iconDescription": "Medicine Complete"
+ },
+ {
+  "name": "Medieval Literature Aloud",
+  "matchUrl": "https://www.bloomsburymedievalstudies.com/medieval-literature-aloud",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-bloomsbury",
+  "iconDescription": "Accessing Bloomsbury Collections"
+ },
+ {
+  "name": "Medline (via ProQuest)",
+  "matchUrl": "http://search.proquest.com/medline/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Microbiology Society Journals",
+  "matchUrl": "https://www.microbiologyresearch.org/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-microbiology-society",
+  "iconDescription": "accessing microbiology soceiety"
+ },
+ {
+  "name": "Migration to New Worlds: The Century of Immigration",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.migration.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Military Intelligence Files: Land, Sea & Air, 1938-1974",
+  "matchUrl": "https://britishonlinearchives.com/collections/78/military-intelligence-files-land-sea-air-1938-1974",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "Mintel",
+  "matchUrl": "https://shibboleth.mintel.com/Shibboleth.sso/Login?target=https%3A%2F%2Fshibboleth.mintel.com%2Fshibboleth%2Flogin%2F%3Fnext%3Dhttp%253A%252F%252Fclients.mintel.com%252F%253Flogon%2526start%253Dredirect%2526args%253D%25252Fhomepages%25252Fdefault%25252F&entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-mintel",
+  "iconDescription": "Accessing Mintel Reports: Academic"
+ },
+ {
+  "name": "MIT (Massachusetts Institute of Technology) Ebooks",
+  "matchUrl": "http://ieeexplore.ieee.org/xpl/mitpress",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ieee",
+  "iconDescription": "Accessing IEEE"
+ },
+ {
+  "name": "MLA International Bibliography with Full Text",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=mlf&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Music Online: Classical Scores Library",
+  "matchUrl": "https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https://shibboleth-sp.prod.proquest.com/ASTREET/LAZR/PROD&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "National Academy of Sciences (U.S.)",
+  "matchUrl": "http://www.pnas.org",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-national-academy-of-sciences",
+  "iconDescription": "Accessing National Adcademy of Sciences"
+ },
+ {
+  "name": "National Theatre Collection",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.dramaonlinelibrary.com/SHIBBOLETH?dest=https://www.dramaonlinelibrary.com/national-theatre-collection",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-drama-online",
+  "iconDescription": "Accessing Drama Online"
+ },
+ {
+  "name": "Nature Journals",
+  "matchUrl": "https://sp.nature.com/saml/login?idp=https://login.northumbria.ac.uk/idp/shibboleth&targetUrl=https://www.nature.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-nature",
+  "iconDescription": "Accessing Nature"
+ },
+ {
+  "name": "NEC4 Engineering & Construction Contracts",
+  "matchUrl": "https://library.northumbria.ac.uk/NEC4-contracts",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-nec4",
+  "iconDescription": "Accessing NEC4"
+ },
+ {
+  "name": "New York Times, The (1851-2022)",
+  "matchUrl": "https://search.proquest.com/hnpnewyorktimeswindex/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "News On Screen",
+  "matchUrl": "https://login.bufvc.ac.uk/wayfless.php?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=http%3A%2F%2Fbufvc.ac.uk%2Ftvandradio%2Fnewsonscreen",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-learning-on-screen",
+  "iconDescription": "Accessing Learning on Screen"
+ },
+ {
+  "name": "NewsBank InfoWeb",
+  "matchUrl": "https://verify2.newsbank.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "Nexis",
+  "matchUrl": "https://advance.lexis.com/nexis?federationidp=ZP5TVQ59299",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-nexis-platform",
+  "iconDescription": "Accessing Nexis Platform"
+ },
+ {
+  "name": "Nick Hern Books via Drama Online",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburycollections.com/SHIBBOLETH?dest=http%3A%2F%2Fwww.dramaonlinelibrary.com/series/nhb-modern-plays-iid-135039",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-nhb",
+  "iconDescription": "Accessing Nick Hern Books"
+ },
+ {
+  "name": "Nineteenth Century Collections Online",
+  "matchUrl": "https://link.gale.com/apps/NCCO?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Nineteenth Century U.S. Newspapers",
+  "matchUrl": "https://link.gale.com/apps/NCNP?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Nineteenth Century UK Periodicals",
+  "matchUrl": "https://link.gale.com/apps/NCUK?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Nixon Years 1969-1974",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx?returnURL=https%3A%2F%2Fwww.thenixonyears.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Nursing & Health Allied Health Database",
+  "matchUrl": "http://search.proquest.com/nursing?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Nutrition and Food Sciences",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fsp.sams-sigma.com%2Fshib%3Fdest%3Dhttps%253A%252F%252Fwww.cabi.org%252Fnutrition%252Fshibboleth.oidc",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-nutrition",
+  "iconDescription": "Accessing Nutrition and Food Sciences"
+ },
+ {
+  "name": "O'Reilly for Higher Education",
+  "matchUrl": "https://go.oreilly.com/univ-of-northumbria",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-orielly-for-higher-education",
+  "iconDescription": "accessing O'Rielly for Higher Education"
+ },
+ {
+  "name": "Occupational Health and Safety Information Services (OHSIS)",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "Official Methods of Analysis of AOAC",
+  "matchUrl": "https://academic.oup.com/jaoac",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxford-academic",
+  "iconDescription": "Accessing Oxford Academic"
+ },
+ {
+  "name": "ORBIS",
+  "matchUrl": "https://authenticate.bvdep.com/ukfederation/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fauthenticate.bvdep.com%2Fukfederation%3Fproduct%3Dsuitesearch_modern",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-orbis",
+  "iconDescription": "Accessing Orbis"
+ },
+ {
+  "name": "OS Digimap - Ordnance Survey® Collection",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Oxford Academic Journals",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https%3A%2F%2Facademic.oup.com%2FSHIBBOLETH?dest=%2Fjournals",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxjournals",
+  "iconDescription": "Accessing Oxford Journals"
+ },
+ {
+  "name": "Oxford Bibliographies",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https://www.oxfordbibliographies.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxbib",
+  "iconDescription": "Accessing Oxford Bibliographies"
+ },
+ {
+  "name": "Oxford Handbooks Online",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https%3A%2F%2Facademic.oup.com%2FSHIBBOLETH?dest=%2Fhttps://academic.oup.com/pages/oxford-handbooks",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxford-handbooks-online",
+  "iconDescription": "oxford handbooks online"
+ },
+ {
+  "name": "Oxford History of Western Music",
+  "matchUrl": "https://academic.oup.com/search-results?sort=Title+-+A+to+Z&f_ContentType=Book&fl_SiteID=191&cqb=%5B%7B%22terms%22:%5B%7B%22filter%22:%22Title%22,%22input%22:%22The%20Oxford%20History%20of%20Western%20Music%22,%22exactMatch%22:true%7D%5D%7D%5D&qb=%7B%22Title1-exact%22:%22The%20Oxford%20History%20of%20Western%20Music%22%7D&page=1",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ohwm",
+  "iconDescription": "Accessing Oxford History of Western Music"
+ },
+ {
+  "name": "Oxford Journals Archive",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https%3A%2F%2Facademic.oup.com%2FSHIBBOLETH?dest=%2Fjournals/pages/access_purchase/oxford_journals_archive",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxjournals",
+  "iconDescription": "Accessing Oxford Journals"
+ },
+ {
+  "name": "Oxford Law Trove  – Temporary Access until 30th June 2020",
+  "matchUrl": "https://www.oxfordlawtrove.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxford-law-trove",
+  "iconDescription": "Accessing Oxford Law Trove"
+ },
+ {
+  "name": "Oxford Reference",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https://www.oxfordreference.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxref",
+  "iconDescription": "Accessing Oxford Reference Online"
+ },
+ {
+  "name": "Oxford Scholarship Online",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https%3A%2F%2Facademic.oup.com%2FSHIBBOLETH?dest=%2Fpages/oxford-scholarship-online",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxjournals",
+  "iconDescription": "Accessing Oxford Journals"
+ },
+ {
+  "name": "Oxford Scholarship Online - Economics and Finance",
+  "matchUrl": "https://academic.oup.com/pages/oxford-scholarship-online",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxscholarship",
+  "iconDescription": "Accessing Oxford Scholarship Online"
+ },
+ {
+  "name": "Oxford Scholarship Online - History",
+  "matchUrl": "https://academic.oup.com/pages/oxford-scholarship-online",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxscholarship",
+  "iconDescription": "Accessing Oxford Scholarship Online"
+ },
+ {
+  "name": "Oxford Scholarship Online - Law",
+  "matchUrl": "https://academic.oup.com/pages/oxford-scholarship-online",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxscholarship",
+  "iconDescription": "Accessing Oxford Scholarship Online"
+ },
+ {
+  "name": "Oxford Scholarship Online - Literature",
+  "matchUrl": "https://academic.oup.com/pages/oxford-scholarship-online",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxscholarship",
+  "iconDescription": "Accessing Oxford Scholarship Online"
+ },
+ {
+  "name": "Oxford Scholarship Online - Political Science",
+  "matchUrl": "https://academic.oup.com/pages/oxford-scholarship-online",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxscholarship",
+  "iconDescription": "Accessing Oxford Scholarship Online"
+ },
+ {
+  "name": "Oxford World’s Classics",
+  "matchUrl": "https://oup-sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%3A%2F%2Foup-sp.sams-sigma.com/shib%3Fdest=https://oxfordworldsclassics.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-oxford-worlds-classics",
+  "iconDescription": "Accessing Oxford Worlds Classics"
+ },
+ {
+  "name": "PAIS Index",
+  "matchUrl": "http://search.proquest.com/pais?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Passport (Euromonitor)",
+  "matchUrl": "https://www.portal.euromonitor.com/Portal/protected.aspx?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-passport",
+  "iconDescription": "Accessing Passport (Euromonitor)"
+ },
+ {
+  "name": "Politics and Protest 1102-1994",
+  "matchUrl": "https://microform.digital/boa/series/12/politics-and-protest-1102-1994",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "Popular Culture in Britain and America 1950-75",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.rockandroll.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Practical Law",
+  "matchUrl": "http://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=https://uk.practicallaw.thomsonreuters.com/Browse/Home/PracticalLaw%3FskipAnonymous%3Dtrue",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-practical-law",
+  "iconDescription": "Accessing Practical Law"
+ },
+ {
+  "name": "Project Muse Film, Theatre and Performing Arts Ebooks",
+  "matchUrl": "http://muse.jhu.edu/browse/film_theater_and_performing_arts?limit_access=valid&limits=discipline_id:42&limits=format:book&display_type=Film,%20Theater,%20and%20Performing%20Arts&browse_type=discipline&browse_view_type=default&sort=&items_per_page=10",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-project-muse",
+  "iconDescription": "Accessing Project Muse"
+ },
+ {
+  "name": "Project Muse Journals",
+  "matchUrl": "https://muse.jhu.edu/wayf?eid=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-project-muse",
+  "iconDescription": "Accessing Project Muse"
+ },
+ {
+  "name": "Project Muse Language and Linguistics Ebooks",
+  "matchUrl": "http://muse.jhu.edu/browse/language_and_linguistics?limit_access=valid&limits=discipline_id:94&limits=format:book&display_type=Language%20and%20Linguistics&browse_type=discipline&browse_view_type=default&sort=&items_per_page=10",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-project-muse",
+  "iconDescription": "Accessing Project Muse"
+ },
+ {
+  "name": "Project Muse Psychology Ebooks",
+  "matchUrl": "http://muse.jhu.edu/browse/medicine_and_health/psychology_and_psychiatry?limit_access=valid&limits=discipline_id:127&limits=format:book&display_type=Medicine%20and%20Health%20%3E%20Psychology%20and%20Psychiatry&browse_type=discipline&browse_view_type=default&sort=&items_per_page=10",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-project-muse",
+  "iconDescription": "Accessing Project Muse"
+ },
+ {
+  "name": "ProQuest Dissertations & Theses A&I",
+  "matchUrl": "http://search.proquest.com/pqdt/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest Dissertations & Theses Global",
+  "matchUrl": "https://search.proquest.com/pqdtglobal/dissertations/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest Historical Newspapers: The Irish Times and The Weekly Irish Times",
+  "matchUrl": "https://search.proquest.com/hnpirishtimes/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest One Literature",
+  "matchUrl": "https://search.proquest.com/pq1lit/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Proquest One Social Sciences Collection",
+  "matchUrl": "https://search.proquest.com/pq1socialsciences/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest Performing Arts Collection",
+  "matchUrl": "https://trials.proquest.com/access?token=tBXDaLFIgrFGnIxHKurDVUTSr",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest Periodicals Archive Online",
+  "matchUrl": "http://search.proquest.com/pao/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest Politics Collection",
+  "matchUrl": "https://www.proquest.com/politics/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest Psychology Journals",
+  "matchUrl": "https://search.proquest.com/psychology/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "ProQuest UK Parliamentary Papers",
+  "matchUrl": "https://search.proquest.com/parlipapers/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Prosecuting the Holocaust: British Investigations into Nazi Crimes",
+  "matchUrl": "https://britishonlinearchives.com/collections/85/prosecuting-the-holocaust-british-investigations-into-nazi-crimes-1944-1949",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "PsycARTICLES",
+  "matchUrl": "http://search.proquest.com/psycarticles/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Public Information Online",
+  "matchUrl": "https://www.publicinformationonline.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://www.publicinformationonline.com/home",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-public-information-online",
+  "iconDescription": "Accessing Public Information Online"
+ },
+ {
+  "name": "Race Relations in America",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx%3FreturnURL%3Dhttps%253A%252F%252Fwww.racerelations.amdigital.co.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Ralph J. Bunche Oral Histories Collection on the Civil Rights Movement",
+  "matchUrl": "https://link.gale.com/apps/GDSC?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "RCNi Journals",
+  "matchUrl": "http://journals.rcni.com/action/ssostart?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fjournals.rcni.com%2F",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-rcn",
+  "iconDescription": "Accessing RCN Publishing Journals Collection"
+ },
+ {
+  "name": "Reaxys",
+  "matchUrl": "https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&appReturnURL=https%3A%2F%2Fwww.reaxys.com%2Fservices%2Foauth%2Fshibboleth-sso",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-reaxys",
+  "iconDescription": "Accessing Reaxys"
+ },
+ {
+  "name": "Records from Bethlem Royal Hospital, 1559–1932",
+  "matchUrl": "https://britishonlinearchives.com/collections/104/records-from-bethlem-royal-hospital-1559-1932",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "Regional Business News",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=bwh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Research into Higher Education Abstracts",
+  "matchUrl": "https://tandfonline.com/db/crhe",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-tandf",
+  "iconDescription": "Accessing Taylor & Francis"
+ },
+ {
+  "name": "Retrospective Index to Musical Periodicals (RIPM)",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&custid=s8461314&groupid=main&profile=ehost&defaultdb=rip",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "RILM Abstracts of Music Literature with Full Text - Temporary access until 30th June 2020",
+  "matchUrl": "http://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=rft&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "RILM Music Encyclopedias - Temporary Access until 5th June 2020",
+  "matchUrl": "https://rme.rilm.org/saml/login?id=https%3a//login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-rilm-music-encyclopedias",
+  "iconDescription": "Assessing RILM music encyclopedias"
+ },
+ {
+  "name": "Rock's Backpages",
+  "matchUrl": "https://www.rocksbackpages.com/Wayfless?entityid=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-rocks-backpages",
+  "iconDescription": "Accessing Rocks Back Pages"
+ },
+ {
+  "name": "Romantic Era Redefined",
+  "matchUrl": "https://search.alexanderstreet.com/romr",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "Routledge History of Feminism",
+  "matchUrl": "https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fshibboleth2sp.tf.semcs.net%2FShibboleth.sso%2FLogin%3FentityID%3Dhttps%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth%26target%3Dhttps%3A%2F%2Fshibboleth2sp.tf.semcs.net%2Fshib%3Fdest%3Dhttps%3A%2F%2Fwww.routledgehistoricalresources.com%2Ffeminism%2FSHIBBOLETH&amp;data=04%7C01%7Clibrary-discovery-access%40northumbria.ac.uk%7Ce076aa9bbe0d4838ae5608d887b745b1%7Ce757cfdd1f354457af8f7c9c6b1437e3%7C0%7C0%7C637408568516708893%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=55bubzUh8pZSoiS%2FRSvzOsT0Njxfq2KiToQwCuhSxXI%3D&amp;reserved=0",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-routledge-history-of-feminism",
+  "iconDescription": "accessing routledge history of feminism"
+ },
+ {
+  "name": "Royal Anthropological Institute of Great Britain and Ireland Archives",
+  "matchUrl": "https://rai.onlinelibrary.wiley.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-wiley",
+  "iconDescription": "Accessing Wiley Online"
+ },
+ {
+  "name": "Royal Geographical Society Archives (with IBG)",
+  "matchUrl": "https://rgs-ibg.onlinelibrary.wiley.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-wiley",
+  "iconDescription": "Accessing Wiley Online"
+ },
+ {
+  "name": "Royal Marsden Manual Online, 10th Edition",
+  "matchUrl": "https://www.rmmonline.co.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-the-royal-marsden-manual-of-clinical-nursing-procedures",
+  "iconDescription": "accessing the royal marsden manual of clinical nursing procedures"
+ },
+ {
+  "name": "Royal Society of Chemistry Journals",
+  "matchUrl": "http://pubs.rsc.org/en/journals?key=title&value=all",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-RSC",
+  "iconDescription": "Accessing Royal Society of Chemistry"
+ },
+ {
+  "name": "Royal Society of Chemistry Journals Archive 1841-2007",
+  "matchUrl": "https://pubs.rsc.org/pages/journals-browse#archive-section",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-RSC",
+  "iconDescription": "Accessing Royal Society of Chemistry"
+ },
+ {
+  "name": "RSC Analytical WebBase (Analytical Abstracts)",
+  "matchUrl": "http://www.rsc.org/Publishing/CurrentAwareness/AA/AASearch.asp",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-RSC",
+  "iconDescription": "Accessing Royal Society of Chemistry"
+ },
+ {
+  "name": "SAE (Society of Automotive Engineers) Technical Papers",
+  "matchUrl": "https://saemobilus.sae.org/start-session?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://saemobilus.sae.org/search/?op=dosearch",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sae",
+  "iconDescription": "Accessing SAE (Society of Automotive Engineers) Technical Papers"
+ },
+ {
+  "name": "SAGE Business Cases",
+  "matchUrl": "https://connect.openathens.net/sagepub.com/15b7e6a9-8721-41fa-86fe-4e2b8fa4c097/login?entity=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sk.sagepub.com/cases",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sage-business-cases",
+  "iconDescription": "Accessing Sage Buiness Cases"
+ },
+ {
+  "name": "Sage Catalyst Collection",
+  "matchUrl": "https://catalyst.talis.com/northumbria/books",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sage-catalyst",
+  "iconDescription": "Accessing Sage Catalyst"
+ },
+ {
+  "name": "Sage Counselling and Psychotherapy Videos",
+  "matchUrl": "https://connect.openathens.net/sagepub.com/15b7e6a9-8721-41fa-86fe-4e2b8fa4c097/login?entity=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3a%2f%2fsk.sagepub.com%2fvideo%2fdiscipline",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-Accessing-sage-video-counselling-and-psychotherapy-collection",
+  "iconDescription": "sage video counselling and psychotherapy collection"
+ },
+ {
+  "name": "SAGE Journals",
+  "matchUrl": "https://iam.atypon.com/action/ssostart?idp=https://login.northumbria.ac.uk/idp/shibboleth&redirectUri=https%3a%2f%2fjournals.sagepub.com&targetSP=https%3a%2f%2fjournals.sagepub.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sage",
+  "iconDescription": "Accessing Sage"
+ },
+ {
+  "name": "Sage Research Methods Videos",
+  "matchUrl": "https://connect.openathens.net/sagepub.com/15b7e6a9-8721-41fa-86fe-4e2b8fa4c097/login?entity=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3a%2f%2fmethods.sagepub.com%2fvideo",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sage-research-methods-videos",
+  "iconDescription": "sage research methods"
+ },
+ {
+  "name": "San Francisco Chronicle (1865 - 1984)",
+  "matchUrl": "https://infoweb.newsbank.com/apps/readex/publication-browse?p=EANX&t=pubname%3A142051F45F422A02%21San%2BFrancisco%2BChronicle&year=1984",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-newsbank",
+  "iconDescription": "Accessing NewsBank"
+ },
+ {
+  "name": "Science Direct - Computer Science Ebooks",
+  "matchUrl": "https://www.sciencedirect.com/science/bookbshsrw/sub/computerscience/all/subscribed",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Science Direct - Finance Ebooks",
+  "matchUrl": "https://www.sciencedirect.com/science/bookbshsrw/sub/finance/all/subscribed",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Science Direct - Health Professionals Ebooks",
+  "matchUrl": "https://www.sciencedirect.com/science/bookbshsrw/sub/nursinghealth/all/subscribed",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Science Direct - Physics and Astronomy Ebooks",
+  "matchUrl": "https://www.sciencedirect.com/science/bookbshsrw/sub/physics/all/subscribed",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Science Direct - Psychology Ebooks",
+  "matchUrl": "https://www.sciencedirect.com/science/bookbshsrw/sub/psychology/all/subscribed",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Science Direct - Social Sciences Ebooks",
+  "matchUrl": "https://www.sciencedirect.com/science/bookbshsrw/sub/socialsciences/all/subscribed",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Science Direct Journals",
+  "matchUrl": "https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&appReturnURL=https://www.sciencedirect.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-elsevier",
+  "iconDescription": "Accessing Elsevier"
+ },
+ {
+  "name": "Scopus",
+  "matchUrl": "https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https://login.northumbria.ac.uk/idp/shibboleth&appReturnURL=http://www.scopus.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-scopus",
+  "iconDescription": "Accessing Scopus"
+ },
+ {
+  "name": "Service Newspapers of World War Two",
+  "matchUrl": "https://www.login.amdigital.co.uk/Shibboleth.sso/WAYF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fwww.login.amdigital.co.uk%2FShibboleth%2FSecure.aspx?returnURL=https%3A%2F%2Fwww.servicenewspapers.amdigital.co.uk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-adam-matthew",
+  "iconDescription": "Accessing Adam Matthew"
+ },
+ {
+  "name": "Seventeenth and Eighteenth Century Burney Newspapers Collection",
+  "matchUrl": "https://link.gale.com/apps/BBCN?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Shakespeare's Globe on Screen",
+  "matchUrl": "https://sp.sams-sigma.com/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://sp.sams-sigma.com/shib?dest=https://www.bloomsburycollections.com/SHIBBOLETH?dest=http%3A%2F%2Fwww.dramaonlinelibrary.com/series/shakespeares-globe-on-screen-2008-2015-iid-154834",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sgos",
+  "iconDescription": "Accessing Shakespeare's Globe on Screen"
+ },
+ {
+  "name": "Society Digimap -2011 UK census data",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "South Eastern Gazette",
+  "matchUrl": "http://www.ukpressonline.co.uk/ukpressonline/autoLogin?entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-south-eastern-gazette",
+  "iconDescription": "Accessing South Eastern Gazette"
+ },
+ {
+  "name": "Specify-It",
+  "matchUrl": "https://sam.accuristech.com/sso/saml2/jsp/spSSOInit.jsp?metaAlias=%2FCustomers%2FNorthumbria_University-o7vkW4Lwm4&idpEntityID=http%3A%2F%2Fsts.northumbria.ac.uk%2Fadfs%2Fservices%2Ftrust&RelayState=https://login.ihserc.com/accurisFederatedLink?iss=https%3A%2f%2fsam.accuristech.com%3A443%2fsso%2foauth2",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ihs-platform",
+  "iconDescription": "Accessing IHS"
+ },
+ {
+  "name": "SPORTDiscus",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=sph&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Springer Nature Journals",
+  "matchUrl": "https://fsso.springer.com/saml/login?idp=https://login.northumbria.ac.uk/idp/shibboleth&targetUrl=https://link.springer.com/journals",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-springer",
+  "iconDescription": "Accessing Springer Journals"
+ },
+ {
+  "name": "State Papers Online 1509-1714",
+  "matchUrl": "https://link.gale.com/apps/SPOL?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Statista",
+  "matchUrl": "https://shibboleth.statista.com/Shibboleth.sso/Login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Fshibboleth.statista.com%2Findex.php%3Fidp%3DaHR0cHM6Ly9sb2dpbi5ub3J0aHVtYnJpYS5hYy51ay9pZHAvc2hpYmJvbGV0aA==",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-statista",
+  "iconDescription": "Accessing Statista"
+ },
+ {
+  "name": "Subculture Archives",
+  "matchUrl": "https://login.northumbria.ac.uk/idp/profile/SAML2/Unsolicited/SSO?providerId=https%3A%2F%2Faccess.subculturearchives.com%2Fplugins%2Fsimplesaml%2Flib%2Fwww%2Fmodule.php%2Fsaml%2Fsp%2Fmetadata.php%2Fresourcespace-sp",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-sub-culture-archives",
+  "iconDescription": "Accessing Sub-culture Archives"
+ },
+ {
+  "name": "Tarnschriften 1933 bis 1945",
+  "matchUrl": "https://www.degruyterbrill.com/database/tarns/html",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-degruyterbrill",
+  "iconDescription": "Accessing De Gruyter Brill"
+ },
+ {
+  "name": "Taylor & Francis Journals",
+  "matchUrl": "https://www.tandfonline.com/action/ssostart?idp=https://login.northumbria.ac.uk/idp/shibboleth&redirectUri=https://www.tandfonline.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-tandf",
+  "iconDescription": "Accessing Taylor & Francis"
+ },
+ {
+  "name": "Teacher Reference Center",
+  "matchUrl": "https://search.ebscohost.com/login.aspx?authtype=shib&profile=ehost&defaultdb=trh&custid=s8461314",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ebsco",
+  "iconDescription": "Accessing EBSCO"
+ },
+ {
+  "name": "Television and Radio Index for Learning and Teaching (TRILT)",
+  "matchUrl": "https://login.bufvc.ac.uk/wayfless.php?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=http%3A%2F%2Fbufvc.ac.uk%2Ftvandradio%2Ftrilt",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-learning-on-screen",
+  "iconDescription": "Accessing Learning on Screen"
+ },
+ {
+  "name": "The British Union of Fascists: Newspapers and Secret Files, 1933-1951",
+  "matchUrl": "https://microform.digital/boa/search?filters[query]=&filters[modelType]=collection&orderBy=",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-british-online-archives",
+  "iconDescription": "Accessing British Online Archives"
+ },
+ {
+  "name": "The Making of the Modern World",
+  "matchUrl": "https://link.gale.com/apps/MOME?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "The New York Times (1851-1922)",
+  "matchUrl": "https://search.proquest.com/hnpnewyorktimes/index/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "The Sixties: Primary Documents and Personal Narratives 1960-1974",
+  "matchUrl": "https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https://shibboleth-sp.prod.proquest.com/ASTREET/LAZR/PROD&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "The Sixties: Primary Documents and Personal Narratives 1960-1974 (Legacey Platform)",
+  "matchUrl": "http://sixt.alexanderstreet.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street",
+  "iconDescription": "Accessing Alexander Street Press (Legacy Platform)"
+ },
+ {
+  "name": "The Telegraph Historical Archive, 1855-2016",
+  "matchUrl": "https://link.gale.com/apps/TGRH?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Times Digital Archive",
+  "matchUrl": "https://link.gale.com/apps/TTDA?u=unn",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-gale",
+  "iconDescription": "Accessing Gale"
+ },
+ {
+  "name": "Tourism Cases",
+  "matchUrl": "https://cabidigitallibrary.org/journal/tcs",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-tourism-cases",
+  "iconDescription": "Accessing Tourism Cases"
+ },
+ {
+  "name": "TV Times Project 1955 - 1985",
+  "matchUrl": "https://login.bufvc.ac.uk/wayfless.php?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&target=http%3A%2F%2Fbufvc.ac.uk%2Ftvandradio%2Ftvtip",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-learning-on-screen",
+  "iconDescription": "Accessing Learning on Screen"
+ },
+ {
+  "name": "UK Data Service",
+  "matchUrl": "http://ukdataservice.ac.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ukds",
+  "iconDescription": "Accessing UK Data Service"
+ },
+ {
+  "name": "Verisk Digimap",
+  "matchUrl": "https://digimap.edina.ac.uk/wayfless?idp=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-digimap",
+  "iconDescription": "Accessing Digimap"
+ },
+ {
+  "name": "Very Short Introductions: Arts & Humanities Collection",
+  "matchUrl": "https://academic.oup.com/pages/very-short-introductions",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-very-short-introductions-arts-and-humanities-ebook-collection",
+  "iconDescription": "Very Short Introductions Arts & Humanities Ebook Collection"
+ },
+ {
+  "name": "Visible Body",
+  "matchUrl": "https://openathens.ovid.com/OAKeystone/deeplink?idpselect=https://login.northumbria.ac.uk/idp/shibboleth&entityID=https://login.northumbria.ac.uk/idp/shibboleth&T=JS&CSC=Y&NEWS=n&PAGE=main&D=aphy18&pcodes=aphy18,huaa18",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-ovid",
+  "iconDescription": "Accessing Ovid"
+ },
+ {
+  "name": "Vogue Archive",
+  "matchUrl": "https://www.proquest.com/vogue/index?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "WARC",
+  "matchUrl": "https://openathens.warc.com/login?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-warc",
+  "iconDescription": "Accessing WARC"
+ },
+ {
+  "name": "Washington Post, The (1877-2003)",
+  "matchUrl": "https://search.proquest.com/hnpwashingtonpost/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Web of Science",
+  "matchUrl": "http://www.webofknowledge.com/?auth=ShibbolethIdPForm&entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https%253A%252F%252Fwww.webofknowledge.com%252F%253FDestApp%253DWOS&ShibFederation=ukFederation&DestApp=WOS",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-wos",
+  "iconDescription": "Accessing Web of Science"
+ },
+ {
+  "name": "Westlaw Ebooks",
+  "matchUrl": "https://uk.westlaw.com/Browse/Home/Books?transitionType=Default&contextData=(sc.Default)&navId=7EBE6EE5C1802A0B14B3BE9FF07BE232&comp=wluk",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-westlaw-UK",
+  "iconDescription": "Accessing Westlaw UK"
+ },
+ {
+  "name": "Westlaw Edge",
+  "matchUrl": "https://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=https%3A%2F%2Fuk.westlaw.com",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-westlaw-UK",
+  "iconDescription": "Accessing Westlaw UK"
+ },
+ {
+  "name": "Westlaw IE",
+  "matchUrl": "https://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=http%3A%2F%2Fie.westlaw.com%2F",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-westlaw-IE",
+  "iconDescription": "Westlaw IE"
+ },
+ {
+  "name": "Westlaw IE - Legacy Platform",
+  "matchUrl": "https://signon.thomsonreuters.com/federation/UKF?entityID=https%3A%2F%2Flogin.northumbria.ac.uk%2Fidp%2Fshibboleth&returnto=https://next.westlaw.com/Browse/Home/InternationalMaterials/OtherInternationalJurisdictions/Ireland160?transitionType=Default&contextData=(sc.Default)%3FskipAnonymous%3Dtrue",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-westlaw-UK",
+  "iconDescription": "Accessing Westlaw UK"
+ },
+ {
+  "name": "WGSN (Worth Global Style Network)",
+  "matchUrl": "https://www.wgsn.com/auth/login",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-wgsn",
+  "iconDescription": "Accessing WGSN (formerly Worth Global Style Network)"
+ },
+ {
+  "name": "Wiley Digital Archives BAAS Collection",
+  "matchUrl": "https://shibboleth.wileydigitalarchives.com/Shibboleth.sso/Login?target=https://api.wileydigitalarchives.com&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-baas",
+  "iconDescription": "Wiley Digital Archives BAAS Collection"
+ },
+ {
+  "name": "Wiley Online Journals",
+  "matchUrl": "https://onlinelibrary.wiley.com/action/ssostart?idp=https://login.northumbria.ac.uk/idp/shibboleth&redirectUri=https://onlinelibrary.wiley.com/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-wiley",
+  "iconDescription": "Accessing Wiley Online"
+ },
+ {
+  "name": "Women and Social Movements",
+  "matchUrl": "https://shibboleth-sp.prod.proquest.com/Shibboleth.sso/DS?SAMLDS=1&target=https://shibboleth-sp.prod.proquest.com/ASTREET/LAZR/PROD&entityID=https://login.northumbria.ac.uk/idp/shibboleth",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-alexander-street-press-new-platform",
+  "iconDescription": "Accessing Alexander Press (New Platform)"
+ },
+ {
+  "name": "Worldwide Political Science Abstracts Information",
+  "matchUrl": "http://search.proquest.com/wpsa/shibboleth?accountid=12860",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-proquest",
+  "iconDescription": "Accessing ProQuest"
+ },
+ {
+  "name": "Zetoc",
+  "matchUrl": "https://zetoc.jisc.ac.uk/Shibboleth.sso/Login?entityID=https://login.northumbria.ac.uk/idp/shibboleth&target=https://zetoc.jisc.ac.uk/",
+  "iconUrl": "https://library.northumbria.ac.uk/access-guides/accessing-zetoc",
+  "iconDescription": "Accessing Zetoc"
+ }
+]
